@@ -610,7 +610,7 @@ li.agile-it-adress-left b {
 }
 .w3-about-grid-left2 h3 {
        color: #fdac14;
-    font-size: 2em;
+    font-size: 3em;
     text-transform: capitalize;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     letter-spacing: 2px;
@@ -681,6 +681,7 @@ h3.w3-head-project {
 	text-transform: capitalize;
 }
 .w3-edu-info1 h4 {
+    font-size: 165%
     text-transform: capitalize;
     color: #dcad3f;
 	letter-spacing: 2px;
@@ -715,7 +716,7 @@ h3.w3-head-project {
 }
 .w3-edu-info2 p {
     color: #8a8a8a;
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 1.8em;
     letter-spacing: 1px;
 	    margin: 1em 0;
@@ -765,7 +766,7 @@ background: linear-gradient(to right, #fc67fa, #f4c4f3); /* W3C, IE 10+/ Edge, F
 }
 .skills-bar .b_label, .skills-bar .bar_label_min, .skills-bar .bar_label_max, .skills-bar .b_tooltip span {
     color: #fff;
-    font-size: .9em;
+    font-size: small;
 	font-weight:600;
 }
 .skills-bar .bar_label_max {
@@ -1106,7 +1107,7 @@ h4.modal-title {
     float: left;
     background: none;
     outline: none;
-    font-size: 1em;
+    font-size: medium;
     padding: 1em 1em;
     margin-bottom: 1em;
     border: solid 1px #fff;
@@ -1118,7 +1119,7 @@ h4.modal-title {
     width: 100%;
     background: none;
     color: #999;
-    font-size: 1em;
+    font-size: medium;
     outline: none;
     padding: 1em .8em;
     border: solid 1px #999;
@@ -1130,7 +1131,7 @@ h4.modal-title {
     color: #fff;
     padding: .5em 2em;
     margin-top: 12px;
-    font-size: 1em;
+    font-size: larger;
     -webkit-appearance: none;
     background: #01bcfa;
     border: 1px solid #01bcfa;
